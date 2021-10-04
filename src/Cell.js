@@ -4,7 +4,7 @@ export default class Cell extends Component {
     constructor() {
         super();
         this.state = {
-            color: '#fff',
+            color: '#000',
         };
     
     }
